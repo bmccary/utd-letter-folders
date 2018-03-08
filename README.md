@@ -10,7 +10,7 @@ I cut them out and tape them to folders.
 
 # Usage
 
-You can probably just download the PDF.
+You can probably just download [the PDF](https://github.com/bmccary/utd-letter-folders/raw/master/letter.pdf).
 But if you want to customize it then change to a suitable directory, and
 
 ```
